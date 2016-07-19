@@ -1,2 +1,2 @@
-Simple GO application for copying mongodb collection accross database
+Simple GO application for copying mongodb collection across database
 
